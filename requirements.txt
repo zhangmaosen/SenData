@@ -1,0 +1,5 @@
+yfinance
+pandas
+stockstats
+requests
+python-dotenv
